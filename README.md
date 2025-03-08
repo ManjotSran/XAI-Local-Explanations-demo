@@ -4,3 +4,4 @@
 **Lime**
 **Anchors**
 **SHAP Values**
+**Ice Plots**
