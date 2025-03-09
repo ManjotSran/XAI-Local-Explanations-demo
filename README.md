@@ -5,3 +5,6 @@
 **Anchors**
 **SHAP Values**
 **Ice Plots**
+
+
+## For this project, We are using the adult income dataset which can be found at this link: 
