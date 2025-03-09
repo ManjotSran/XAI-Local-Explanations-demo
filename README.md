@@ -7,4 +7,4 @@
 **Ice Plots**
 
 
-## For this project, We are using the adult income dataset which can be found at this link: 
+## For this project, We are using the adult income dataset which can be found at this link: https://archive.ics.uci.edu/dataset/2/adult
